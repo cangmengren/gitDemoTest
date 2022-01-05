@@ -1,5 +1,5 @@
 {
-  "name": "git-demo",
+  "name": "dream",
   "version": "1.0.0",
   "description": "demo",
   "author": "cangmengren",
@@ -11,6 +11,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "element-ui": "^2.15.6",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
   },
