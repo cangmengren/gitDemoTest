@@ -2,6 +2,7 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <div>分支2测试，合并分支测试</div>
+    <div>开发分支页面</div>
   </div>
 </template>
 
